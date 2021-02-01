@@ -1,0 +1,38 @@
+h1 {
+    color: black;
+    font-family: sans-serif;
+}
+h2 {
+		color: rgb(50,50,50);
+		font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+		color: rgb(100,100,100);
+}
+p {
+		color: darkslategray;
+		font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+hr {
+		color: blueviolet;
+}
+.navig {
+	color: black;
+	
+}
+.navig:hover {
+	background-color: aqua;
+	color: yellow;
+}
+.navig:visited {
+	color: darkslategrey;
+}
+.head {
+	color: yellow;
+}
+body {
+  	background-image: linear-gradient( lightblue, aquamarine);
+}
+.no {
+	text-decoration: none;
+}
